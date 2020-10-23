@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "722000345078",
+    "firebase_url": "https://kassata-ab137.firebaseio.com",
+    "project_id": "kassata-ab137",
+    "storage_bucket": "kassata-ab137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722000345078:android:f6d598c752c7434d",
+        "android_client_info": {
+          "package_name": "ne.kasata.kasata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722000345078-6l5fogbl43c3ailnfpmav45mhabk88hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ne.kasata.kasata",
+            "certificate_hash": "f8b12853d3b2d9e83b3ff1b930fdb0cd00f316a0"
+          }
+        },
+        {
+          "client_id": "722000345078-1ns6mljn7oas9ddvjr639i0uc2gcnrcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0Icf-vj0VgZ6B7-mQOt3vxE3_cdini4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722000345078-1ns6mljn7oas9ddvjr639i0uc2gcnrcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
